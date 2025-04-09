@@ -1,0 +1,18 @@
+/* body {
+   color: aqua;
+    background-color:  ;
+}
+    */
+
+/*.container {
+      border-bottom: 10px;
+    border-color: blue;
+    display: flex;
+    flex-direction: column;
+}
+
+*/.container {
+    margin: 20px; /* margem externa em todos os lados */
+    display: flex;
+    flex-direction: column;
+}
